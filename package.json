@@ -1,0 +1,11 @@
+{
+  "name": "fcc-headerparser",
+  "version": "1.0.0",
+  "description": "ip, browser, os retriver",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "softman",
+  "license": "ISC"
+}
